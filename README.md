@@ -1,6 +1,5 @@
 # OT-Cybersecurity & Process Automation Lab
-A comprehensive hands-on portfolio combining **Process Automation** and **Operational Technology (OT) Cybersecurity** practices.  
-These labs demonstrate secure design, configuration, and protection of industrial systems including **Foxboro DCS**, **HMI design**, **network hardening**, and **data protection** strategies.
+This project was developed as a practical demonstration to support my application for the role of **OT Cybersecurity Engineer/Process Automation Engineer**. It reflects my techinical expertise and Passion in applying Cybersecurity principles to secure OT Sytems
 
 ---
 
