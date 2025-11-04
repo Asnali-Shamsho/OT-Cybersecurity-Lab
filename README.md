@@ -6,7 +6,7 @@ This project was developed as a practical demonstration to support my applicatio
 ## Lab Projects Overview
 The Lab focuses on building a comprehensive OT Cybersecurity Lab that simulates a real industrial environment. The Lab integrates critical enterprise and conttrol system components including: 
 
-### 1. Risk Assessment
+### 1. Risk Assessment (./Risk Assessment)
 
 ### 2. System Design and Architecture
 
