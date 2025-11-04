@@ -1,5 +1,5 @@
 # OT-Cybersecurity & Process Automation Lab
-This project was developed as a practical demonstration to support my application for the role of **OT Cybersecurity Engineer/Process Automation Engineer**. It reflects my techinical expertise and Passion in applying Cybersecurity principles to secure OT Sytems
+This project was developed as a practical demonstration to support my application for the role of **OT Cybersecurity Engineer/Process Automation Engineer**. It reflects my techinical expertise and passion in applying Cybersecurity principles to secure OT Sytems
 
 ---
 
