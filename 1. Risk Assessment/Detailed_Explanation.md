@@ -22,7 +22,7 @@ The system integrates both cybersecurity management and process control componen
 7.  Triconex Safety Instrumented System (SIS): *Safety-critical automation ensuring process integrity.*
 8.  Programmable Logic Controllers (PLCs): *Localized field control and signal acquisition.*
 
-       Asset List
+   #### Asset List
 
 ![Asset List](./Assets.png)
 
