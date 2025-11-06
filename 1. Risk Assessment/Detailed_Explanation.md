@@ -23,7 +23,7 @@ The system integrates both cybersecurity management and process control componen
 8.  Programmable Logic Controllers (PLCs): *Localized field control and signal acquisition.*
 
 Asset List
-[](./Assets.png)
+![Asset List](./Assets.png)
 
 
 ### Step 2: Threat Identification
